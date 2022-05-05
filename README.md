@@ -1,1 +1,1 @@
-# text-speech
+# demo of DeepSpeech 
